@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RidaFatima03
-- 👀 I’m a freshman at Bilkent University
+- 👀 I’m a sophmore at Bilkent University
 - 🌱 I’m currently studying Computer Engineering.
 <!---
 RidaFatima03/RidaFatima03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
